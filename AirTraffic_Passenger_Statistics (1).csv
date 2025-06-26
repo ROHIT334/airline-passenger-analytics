@@ -1,0 +1,7 @@
+Activity Period,Operating Airline,GEO Summary,GEO Region,Activity Type Code,Passenger Count,Terminal
+201801,Delta,Domestic,US,Enplaned,50000,T1
+201802,United,International,Europe,Deplaned,30000,T2
+201803,Delta,Domestic,US,Enplaned,52000,T1
+201804,American,Domestic,US,Enplaned,48000,T1
+201901,Delta,Domestic,US,Deplaned,31000,T2
+201902,United,International,Europe,Enplaned,45000,T2
